@@ -4,7 +4,7 @@
   3. Then we have programming languages that is responsible for writing the instructions that this computers uses to perform the functions they are the meant to perform and an example of this programming language is Java others are Python, JavaScript
   4. The most popular first program of every programmer is the Hello World program and we are going to do just that 
  ```
-         Public class Hello
+         public class Hello
            {
            public static void main(String[] args)
             {
@@ -13,9 +13,19 @@
                     the multiline comment*/
               /*And here we have the JavaDoc 
                     comment which is also multiline**/
+              
               System.out.println("Hello World");
+              /*The above code prints out hello world on the screen, take note of the structure, all letters before the parentheses in lower case except the "S" in System and the double inverted commas*/
+ 
+        
              }
            }
 ```
-
+   5. Java Memory concepts entails garbage collection in java and it is basically the language's way of freeing up resources. You should research more on it because very much it will form the basis of how your program will be efficient
+   6. Decision making is one of the core of all programming languages and some operators are peculiar with it. These operators are shown in the code snippet below
+```
+          public class Decision{
+             public static void main(String[] args)
+                 {
+                   
            
