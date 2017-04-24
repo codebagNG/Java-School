@@ -15,8 +15,7 @@
                     comment which is also multiline**/
               
               System.out.println("Hello World");
-              /*The above code prints out hello world on the screen,
-            take note of the structure, all letters before the           parentheses in lower case except the "S" in System and the double inverted commas*/
+              /*The above code prints out hello world on the screen take note of the structure, all letters before the parentheses in lower case except the "S" in System and the double inverted commas*/
  
         
              }
