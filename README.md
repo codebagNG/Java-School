@@ -22,4 +22,5 @@ This Repository will include
  - Codebag Team
 # Compensate Us
  You can only compensate us by starring and watching this repository. So that you can get updates on the repo. Following us on Twitter, Facebook and Instagram @codebagNG will be appreciated.
-
+# Note 
+  This repo is just a means of touching what we are going to be doing briefly. For better understanding of what we are touching here students are advised to follow the tutorials and do the mini-projects
